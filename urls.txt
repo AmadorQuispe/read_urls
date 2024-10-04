@@ -1,0 +1,22 @@
+https://myshop.com/products/item123.html
+https://shoponline.com/deals/todaysdeal.html
+https://exampleshop.net/product-page.html
+http://nonshop.com/specials.html
+https://anotherdomain.com/about.html
+https://shopify.com/store/productX.html
+https://shopcentral.co.uk/best-deals.html
+http://myshop.net/sale/item45.html
+http://notshoprelated.com/info.html
+https://eshopdeals.net/index.html
+https://shoponline.com/aboutus.html
+https://shopworld.com/contact.html
+https://myshop.com/products/item123.html  // duplicated
+https://exampleshop.net/product-page.html // duplicated
+https://nohtmlending.shopworld.com/product
+https://shopnow.org/items/item567.html
+http://shoppingpage.com/categories.html
+https://discountshopper.com/sale/final.html
+http://exampleshop.com/product.php
+https://randomsite.com/info
+https://shopwithus.com/offers.html
+https://subdomain.shoponline.com/promotions.html
